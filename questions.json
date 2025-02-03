@@ -1,0 +1,527 @@
+{
+  "level_1": [
+    {
+      "question": "What is the capital of Bulgaria?",
+      "answers": [
+        "Sofia",
+        "Plovdiv",
+        "Varna",
+        "Burgas"
+      ],
+      "correct": "Sofia"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answers": [
+        "H2O",
+        "CO2",
+        "O2",
+        "NaCl"
+      ],
+      "correct": "H2O"
+    },
+    {
+      "question": "Which planet is closest to the Sun?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correct": "Mercury"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "answers": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": "7"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answers": [
+        "Elephant",
+        "Blue Whale",
+        "Giraffe",
+        "Shark"
+      ],
+      "correct": "Blue Whale"
+    },
+    {
+      "question": "Which country is famous for the Pyramids of Giza?",
+      "answers": [
+        "Greece",
+        "Egypt",
+        "Italy",
+        "Mexico"
+      ],
+      "correct": "Egypt"
+    },
+    {
+      "question": "What is the primary color of the sky on a clear day?",
+      "answers": [
+        "Red",
+        "Blue",
+        "Green",
+        "Yellow"
+      ],
+      "correct": "Blue"
+    },
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "answers": [
+        "Tiger",
+        "Lion",
+        "Elephant",
+        "Gorilla"
+      ],
+      "correct": "Lion"
+    },
+    {
+      "question": "What is the smallest planet in the Solar System?",
+      "answers": [
+        "Earth",
+        "Mars",
+        "Mercury",
+        "Venus"
+      ],
+      "correct": "Mercury"
+    },
+    {
+      "question": "Which country is the Eiffel Tower located in?",
+      "answers": [
+        "Germany",
+        "France",
+        "Italy",
+        "Spain"
+      ],
+      "correct": "France"
+    }
+  ],
+  "level_2": [
+    {
+      "question": "Which is the highest peak in Bulgaria?",
+      "answers": [
+        "Vihren",
+        "Musala",
+        "Rila",
+        "Pirin"
+      ],
+      "correct": "Musala"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "answers": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Mark Twain",
+        "Jane Austen"
+      ],
+      "correct": "William Shakespeare"
+    },
+    {
+      "question": "What is the largest planet in the Solar System?",
+      "answers": [
+        "Earth",
+        "Jupiter",
+        "Saturn",
+        "Mars"
+      ],
+      "correct": "Jupiter"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "answers": [
+        "China",
+        "Japan",
+        "South Korea",
+        "Thailand"
+      ],
+      "correct": "Japan"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correct": "Paris"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct": "Carbon Dioxide"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet"
+      ],
+      "correct": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct": "Pacific Ocean"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "answers": [
+        "Oxygen",
+        "Gold",
+        "Iron",
+        "Carbon"
+      ],
+      "correct": "Oxygen"
+    },
+    {
+      "question": "What is the smallest country in the world by area?",
+      "answers": [
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Liechtenstein"
+      ],
+      "correct": "Vatican City"
+    }
+  ],
+  "level_3": [
+    {
+      "question": "Who is the author of the poem 'Gramada'?",
+      "answers": [
+        "Hristo Botev",
+        "Ivan Vazov",
+        "Peyo Yavorov",
+        "Pencho Slaveykov"
+      ],
+      "correct": "Peyo Yavorov"
+    },
+    {
+      "question": "What is the largest planet in the Solar System?",
+      "answers": [
+        "Earth",
+        "Jupiter",
+        "Saturn",
+        "Mars"
+      ],
+      "correct": "Jupiter"
+    },
+    {
+      "question": "Which country is home to the kangaroo?",
+      "answers": [
+        "South Africa",
+        "Australia",
+        "Brazil",
+        "Canada"
+      ],
+      "correct": "Australia"
+    },
+    {
+      "question": "What is the square root of 64?",
+      "answers": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": "8"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "answers": [
+        "Marie Curie",
+        "Alexander Fleming",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct": "Alexander Fleming"
+    },
+    {
+      "question": "What is the capital of Canada?",
+      "answers": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "correct": "Ottawa"
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "answers": [
+        "Oxygen",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
+      ],
+      "correct": "Nitrogen"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": [
+        "Au",
+        "Ag",
+        "Fe",
+        "Gd"
+      ],
+      "correct": "Au"
+    },
+    {
+      "question": "Which continent is the Sahara Desert located on?",
+      "answers": [
+        "Asia",
+        "Africa",
+        "Australia",
+        "South America"
+      ],
+      "correct": "Africa"
+    },
+    {
+      "question": "Who is known as the father of modern physics?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Nikola Tesla"
+      ],
+      "correct": "Albert Einstein"
+    }
+  ],
+  "level_4": [
+    {
+        "question": "What is the square root of 64?",
+        "answers": ["4", "6", "8", "10"],
+        "correct": "8"
+    },
+    {
+        "question": "Who wrote the play 'Hamlet'?",
+        "answers": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+        "correct": "William Shakespeare"
+    },
+    {
+        "question": "What is the chemical formula for table salt?",
+        "answers": ["NaCl", "H2O", "CO2", "O2"],
+        "correct": "NaCl"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct": "Mars"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answers": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correct": "Canberra"
+    },
+    {
+        "question": "Which element has the atomic number 1?",
+        "answers": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+        "correct": "Hydrogen"
+    },
+    {
+        "question": "What is the largest desert in the world?",
+        "answers": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+        "correct": "Antarctic"
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "answers": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+        "correct": "Charles Babbage"
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "answers": ["Femur", "Stapes", "Tibia", "Humerus"],
+        "correct": "Stapes"
+    },
+    {
+        "question": "Which country is the origin of the Olympic Games?",
+        "answers": ["Rome", "Greece", "Egypt", "China"],
+        "correct": "Greece"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "answers": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "correct": "300,000 km/s"
+    }
+],
+ "level_5": [
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answers": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+        "correct": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "answers": ["1", "2", "3", "5"],
+        "correct": "2"
+    },
+    {
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "answers": ["Sweden", "Norway", "Finland", "Iceland"],
+        "correct": "Norway"
+    },
+    {
+        "question": "What is the chemical symbol for silver?",
+        "answers": ["Si", "Ag", "Au", "Sr"],
+        "correct": "Ag"
+    },
+    {
+        "question": "Who developed the theory of general relativity?",
+        "answers": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+        "correct": "Albert Einstein"
+    },
+    {
+        "question": "What is the largest moon of Saturn?",
+        "answers": ["Titan", "Enceladus", "Rhea", "Mimas"],
+        "correct": "Titan"
+    },
+    {
+        "question": "Which language is the most widely spoken in the world?",
+        "answers": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+        "correct": "Mandarin Chinese"
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "answers": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+        "correct": "Brasília"
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "answers": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+        "correct": "George Orwell"
+    },
+    {
+        "question": "What is the hardest natural material on Earth?",
+        "answers": ["Gold", "Iron", "Diamond", "Quartz"],
+        "correct": "Diamond"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "answers": ["Earth", "Jupiter", "Saturn", "Mars"],
+        "correct": "Saturn"
+    }
+],
+  "level_6": [
+    {
+      "question": "What is the smallest prime number?",
+      "answers": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correct": "2"
+    }
+  ],
+  "level_7": [
+    {
+      "question": "What is the capital of Japan?",
+      "answers": [
+        "Beijing",
+        "Seoul",
+        "Tokyo",
+        "Bangkok"
+      ],
+      "correct": "Tokyo"
+    }
+  ],
+  "level_8": [
+    {
+      "question": "Who developed the theory of relativity?",
+      "answers": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Stephen Hawking",
+        "Niels Bohr"
+      ],
+      "correct": "Albert Einstein"
+    }
+  ],
+  "level_9": [
+    {
+      "question": "What is the hardest natural material on Earth?",
+      "answers": [
+        "Gold",
+        "Iron",
+        "Diamond",
+        "Quartz"
+      ],
+      "correct": "Diamond"
+    }
+  ],
+  "level_10": [
+    {
+        "question": "What is the largest ocean on Earth?",
+        "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct": "Pacific Ocean"
+    },
+    {
+        "question": "Who formulated the laws of motion and universal gravitation?",
+        "answers": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+        "correct": "Isaac Newton"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "answers": ["K", "P", "Pt", "Po"],
+        "correct": "K"
+    },
+    {
+        "question": "Which country has the most time zones?",
+        "answers": ["Russia", "United States", "China", "France"],
+        "correct": "France"
+    },
+    {
+        "question": "What is the name of the closest star to the Sun?",
+        "answers": ["Alpha Centauri", "Proxima Centauri", "Sirius", "Betelgeuse"],
+        "correct": "Proxima Centauri"
+    },
+    {
+        "question": "Who wrote the epic poem 'The Divine Comedy'?",
+        "answers": ["Dante Alighieri", "Homer", "Virgil", "John Milton"],
+        "correct": "Dante Alighieri"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answers": ["Liver", "Skin", "Heart", "Brain"],
+        "correct": "Skin"
+    },
+    {
+        "question": "Which element is the most abundant in the Earth's crust?",
+        "answers": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+        "correct": "Oxygen"
+    },
+    {
+        "question": "What is the name of the galaxy that contains our Solar System?",
+        "answers": ["Andromeda", "Milky Way", "Triangulum", "Sombrero"],
+        "correct": "Milky Way"
+    },
+    {
+        "question": "Who discovered the electron?",
+        "answers": ["Ernest Rutherford", "J.J. Thomson", "Niels Bohr", "James Chadwick"],
+        "correct": "J.J. Thomson"
+    },
+    {
+        "question": "What is the name of the process by which plants convert sunlight into energy?",
+        "answers": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+        "correct": "Photosynthesis"
+    }
+]
+}
